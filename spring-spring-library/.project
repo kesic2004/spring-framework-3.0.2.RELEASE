@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>spring-spring-library</name>
+	<comment></comment>
+	<projects>
+		<project>spring-aop</project>
+		<project>spring-aspects</project>
+		<project>spring-beans</project>
+		<project>spring-context</project>
+		<project>spring-context-support</project>
+		<project>spring-core</project>
+		<project>spring-jdbc</project>
+		<project>spring-jms</project>
+		<project>spring-orm</project>
+		<project>spring-transaction</project>
+		<project>spring-web</project>
+		<project>spring-web-servlet</project>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+</projectDescription>
